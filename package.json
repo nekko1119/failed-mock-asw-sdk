@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest-cli": "^0.8.2"
+    },
+    "dependencies": {
+        "aws-sdk": "^2.2.36"
+    }
+}
